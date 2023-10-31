@@ -1,6 +1,6 @@
 # Logistics
 
-Planlaması bana ait olan şık bir arayüz tasarladım.
+Planlaması ve tasarımı bana ait olan şık bir lojistik konulu arayüz tasarladım.
 
 # Kullanılan Teknolojiler
 
