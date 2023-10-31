@@ -19,6 +19,8 @@ Planlaması bana ait olan şık bir arayüz tasarladım.
 
 ![](/images/log-exp.mp4)
 
+https://github.com/EyupSaltukB/logistics/assets/129687853/0089231a-d8a3-478e-97f8-4e9b307ed71f
+
 # GIF
 
 ![](/images/log-truck.gif)
